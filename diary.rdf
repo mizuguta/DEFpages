@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+	<title>DEF?</title>
+		<link>http://homepage.mac.com/mizuguti/</link> 
+		<description>青春の賞味期限切れサイト</description>
+		<language>ja-jp</language>
+		<item>
+			<title>80代風SF妄想</title>
+			<link>http://homepage.mac.com/mizuguti/diary/04-6-3.html#040625</link>
+			<description>アパートのケーブルTV会社を切り替えるとかで、工事があったらしい。</description>
+			<dc:creator>ミズグチ</dc:creator> 
+			<dc:date>2004-06-25T12:34:56+09:00</dc:date>
+		</item>
+		<item>
+			<title>誰がロボット？</title>
+			<link>http://homepage.mac.com/mizuguti/diary/04-6-3.html#040628</link>
+			<description>メトロバスのボディにWill Smith主演「i, robot」の広告が載るようになった。</description>
+			<dc:creator>ミズグチ</dc:creator> 
+			<dc:date>2004-06-28T12:34:56+09:00</dc:date>
+		</item>
+		<item>
+			<title>id:4大作戦 -前編-</title>
+			<link>http://homepage.mac.com/mizuguti/diary/04-7-1.html#040703</link>
+			<description>ここ２ヶ月ばかり、日本から出張者が来ていて、たまに昼ご飯を一緒に食べているのです。この週末はドジャーズスタジアムでドジャーズVSヤンキースの試合があるらしくて、興味があるなら一緒に行かない？と誘われました。</description>
+			<dc:creator>ミズグチ</dc:creator> 
+			<dc:date>2004-07-03T12:34:56+09:00</dc:date>
+		</item>
+		<item>
+			<title>id:4大作戦 -後編-</title>
+			<link>http://homepage.mac.com/mizuguti/diary/04-7-1.html#040704</link>
+			<description>独立記念日なので、夜になると家の裏の桟橋で花火が上がります。部屋に引きこもっていても全然問題ないのですが、それだと花火の音がうるさいだけなので、見に行った方が精神衛生的にもよいでしょう。考えてみれば初めての夏らしいイベントですし。</description>
+			<dc:creator>ミズグチ</dc:creator> 
+			<dc:date>2004-07-04T12:34:56+09:00</dc:date>
+		</item>
+	</channel>
+</rss>
